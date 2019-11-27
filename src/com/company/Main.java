@@ -10,6 +10,5 @@ public class Main {
         System.out.println("ddd");
         System.out.println("eee");
         System.out.println("fff");
-
     }
 }
